@@ -29,12 +29,12 @@ Site institucional de página única (one-page) criado para a **Barbearia Estilo
 ```
 barbearia-estilo-fino/
 ├── index.html          # Estrutura da página
-├── style.css            # Estilos visuais
-├── background.jpg       # Imagem de fundo (adicionar)
+├── estilo.css            # Estilos visuais
+├── imagemdefundo.png       # Imagem de fundo (adicionar)
 └── serviços realizados.png  # Imagem da galeria (adicionar)
 ```
 
-> ⚠️ As imagens (`imagemdefundo.jpg` e `serviços realizados.png`) precisam estar na mesma pasta dos arquivos HTML/CSS para que apareçam corretamente.
+> ⚠️ As imagens (`imagemdefundo.png` e `serviços realizados.png`) precisam estar na mesma pasta dos arquivos HTML/CSS para que apareçam corretamente.
 
 ## Veja como ficou
 
